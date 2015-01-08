@@ -2,7 +2,7 @@ app_store_spiders
 =================
 spiders on different app store
 
-#1.不能显示具体的下载量
+###1.不能显示具体的下载量
 
 	anzhi.com
 	
